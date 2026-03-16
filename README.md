@@ -1,13 +1,13 @@
-# PYTHON PORT SCANNER
+# Python Port Scanner
 
 A Python-based port scanning tool that scans ports  1-100
 on a target IP addrees to identify open ports using python's
 socket library
 
-## FEATURES
+## Features
 - Simple terminal interface
 - Detects open ports
 
-## HOW TO RUN
+## How to run
 - Open Command Prompt or terminal
 - Run the script
